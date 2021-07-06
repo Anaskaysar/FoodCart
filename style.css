@@ -1,0 +1,106 @@
+body{
+    font-family: 'Concert One', cursive;
+font-family: 'M PLUS 1p', sans-serif;
+}
+h1{
+    font-size: 70px;
+    margin:0px
+}
+h3{
+    color: rgb(26, 129, 212);
+    margin: auto;
+}
+.flexible-container{
+    display: flex;
+
+}
+.top-banner{
+    background-color: rgb(180, 224, 241);
+    margin:20px 10px ;
+}
+.span-color{
+    color: rgb(28, 134, 206);
+}
+.intro-section{
+    padding-left:40px ;
+    padding-top: 20px;
+    width:50%
+
+}
+.intro-section img{
+    width: 50%;
+
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(21, 183, 233);
+    background-image: linear-gradient(rgb(0, 225, 255),rgb(19, 56, 223));
+    padding: 10px 40px;
+    color:white;
+    font-weight:bold;
+    border-radius: 20px;
+    
+}
+
+.about-me{
+    background-image: url(images/BG.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 100%;
+    margin:30px 10px 30px;   
+}
+.gray-h2{
+    color: slategrey;
+    font-weight: bold;
+}
+.about-me-text{
+    padding: 0px;
+}
+.dish-container{
+    margin:30px 30px 30px;
+
+}
+.popular-dishes{
+    width: 250%;
+    text-align: justify;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px 0 gray,0 2px 6px 0;
+}
+
+.popular-dishes img{
+width: 100%;
+border-radius: 20px;
+padding-top: 10px;
+padding-right: 5px;
+padding-left: 5px;
+}
+
+.popular-dishes p{
+    padding: 10px;
+}
+.popular-dishes h3{
+    padding-left: 10px;
+}
+.visitors-count li{
+    display: inline;
+}
+
+
+.footer-container{
+    background-color: rgb(180, 224, 241);
+    padding:50px
+    
+}
+
+.footer-container h2{
+    text-align: center;
+}
+.footer-container p{
+text-align: center;
+font-weight: bold;
+}
+
+.social-count ul{
+    display: flex;
+}
