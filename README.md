@@ -1,2 +1,2 @@
-This is website of our one andonly resturant "Food cart"
+This is website of our one and only resturant "Food cart"
 
